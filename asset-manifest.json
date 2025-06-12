@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SatyamRanjan-404/Weather-App/static/css/main.da3ba745.css",
+    "main.js": "/SatyamRanjan-404/Weather-App/static/js/main.67baaf27.js",
+    "static/js/488.e4045a14.chunk.js": "/SatyamRanjan-404/Weather-App/static/js/488.e4045a14.chunk.js",
+    "index.html": "/SatyamRanjan-404/Weather-App/index.html",
+    "main.da3ba745.css.map": "/SatyamRanjan-404/Weather-App/static/css/main.da3ba745.css.map",
+    "main.67baaf27.js.map": "/SatyamRanjan-404/Weather-App/static/js/main.67baaf27.js.map",
+    "488.e4045a14.chunk.js.map": "/SatyamRanjan-404/Weather-App/static/js/488.e4045a14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3ba745.css",
+    "static/js/main.67baaf27.js"
+  ]
+}
